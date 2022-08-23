@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Lab1-Cuellar\Lab1-Cuellar\bin\Debug\Lab1-Cuellar.exe.config
+C:\Users\user\source\repos\Lab1-Cuellar\Lab1-Cuellar\bin\Debug\Lab1-Cuellar.exe
+C:\Users\user\source\repos\Lab1-Cuellar\Lab1-Cuellar\bin\Debug\Lab1-Cuellar.pdb
+C:\Users\user\source\repos\Lab1-Cuellar\Lab1-Cuellar\obj\Debug\Lab1-Cuellar.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Lab1-Cuellar\Lab1-Cuellar\obj\Debug\Lab1-Cuellar.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Lab1-Cuellar\Lab1-Cuellar\obj\Debug\Lab1_Cuellar.Formulario.resources
+C:\Users\user\source\repos\Lab1-Cuellar\Lab1-Cuellar\obj\Debug\Lab1_Cuellar.Properties.Resources.resources
+C:\Users\user\source\repos\Lab1-Cuellar\Lab1-Cuellar\obj\Debug\Lab1-Cuellar.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Lab1-Cuellar\Lab1-Cuellar\obj\Debug\Lab1-Cuellar.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lab1-Cuellar\Lab1-Cuellar\obj\Debug\Lab1-Cuellar.exe
+C:\Users\user\source\repos\Lab1-Cuellar\Lab1-Cuellar\obj\Debug\Lab1-Cuellar.pdb
